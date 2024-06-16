@@ -25,4 +25,18 @@ Before you begin, ensure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
    git clone https://github.com/CH-Naveen2000/WeatherReport.git
+## Project Structure
+
+
+weather-app/
+  ├── public/
+  ├── src/
+  │   ├── components/
+  │   │   ├── Weather.js
+  │   └── App.js
+  │   └── index.js
+  │   └── App.css
+  ├── package.json
+  └── README.md
+
    
